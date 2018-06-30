@@ -5,3 +5,5 @@ def using_for
 end
 
 
+def test 
+  for counter in 
