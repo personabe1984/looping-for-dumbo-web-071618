@@ -6,4 +6,9 @@ end
 
 
 def test 
-  for counter in 
+  for counter in 0..5 do 
+    puts "The current number is #{counter}"
+  end
+end
+
+test
